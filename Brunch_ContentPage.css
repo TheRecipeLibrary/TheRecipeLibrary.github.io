@@ -1,0 +1,50 @@
+
+head {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #303030;
+  letter-spacing: -1px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: #aaa;
+  letter-spacing: -1px;
+}
+
+h3{ 
+	font-size:24px;
+	font-weight: normal;
+	line-height:1.9
+	color:white
+ 
+}
+h4{ 
+	font-size:24px;
+	font-weight: normal;
+	line-height:1.9
+	color:white
+	letter-spacing:-10px; 
+}
+body {
+  background-image: url("./eggs.jpg");
+  background-size:1000px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: white;
+}
+ul li {
+  padding-left: 20px;
+  list-style-position: inside;
+  list-style: disc;
+}
+
+ol li {
+  padding-left: 3px;
+  list-style-position: inside;
+  list-style: decimal;
+  }
