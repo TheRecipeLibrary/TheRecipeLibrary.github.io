@@ -1,0 +1,55 @@
+
+.jumbotron {
+  padding-top: 90px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-color:white;
+}
+
+head{
+  padding-top:100px;
+  font-size:40px;
+}
+
+h1{
+  padding: 90px
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: -1px;
+}
+
+body {
+  background-image: url();
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 13px;
+  line-height: 1.5;
+}
+ul li {
+  padding-left: 20px;
+  list-style-position: inside;
+  list-style: disc;
+}
+
+ol li {
+  padding-left: 3px;
+  list-style-position: inside;
+  list-style: decimal;
+  }
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
