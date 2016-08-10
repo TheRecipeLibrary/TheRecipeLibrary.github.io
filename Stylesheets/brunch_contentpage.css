@@ -53,3 +53,7 @@ ol li {
   border-color: #b62f26;
   color: white;
 }
+
+h1:hover {
+    background-color: yellow;
+}
