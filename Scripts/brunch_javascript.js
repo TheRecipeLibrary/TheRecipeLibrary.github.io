@@ -1,5 +1,5 @@
 function myFunction() {
-   document.getElementById("test").innerHTML = "Paragraph changed.";
+   document.getElementById("test").innerHTML = "Try our fantastic recipes!";
 }
 
 $("#example-basic").steps({

@@ -1,9 +1,12 @@
 
 .jumbotron {
-  padding-top: 90px;
+  padding: 90px;
   min-height: 600px;
-  margin-bottom: 0;
   background-color:white;
+  color:black;
+  font-family:Amatic SC;
+  letter-spacing:3px;
+  text-align:center;
 }
 
 head{
@@ -15,7 +18,9 @@ h1{
   padding: 90px
   font-size: 40px;
   line-height: 1.2;
-  letter-spacing: -1px;
+  letter-spacing: 15px;
+  text-align: center
+  margin-bottom:100px;
 }
 
 body {
@@ -40,20 +45,38 @@ ol li {
   background-color: #00acee;
   border-color: #009ad5;
   color: white;
+  margin-bottom:50px;
 }
 
 .btn-facebook {
   background-color: #4868ac;
   border-color: #314776;
   color: white;
+  margin-bottom:50px;
 }
 
 .btn-pinterest {
   background-color: #b62f26;
   border-color: #b62f26;
   color: white;
+  margin-bottom:50px;
+}
+
+.btn-javascript{
+  background-color: pink;
+  border-color: pink;
+  color: grey;
+  margin-bottom:50px;
 }
 
 h1:hover {
     background-color: yellow;
+}
+
+#social-buttons {
+  margin-top:70px;
+}
+
+.title {
+  margin-bottom:70px;
 }
