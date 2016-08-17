@@ -84,3 +84,7 @@ h1:hover {
 h4 {
   background-color:pink;
 }
+
+.alert {
+  background-image:url("../Images/egg1.png");
+}
